@@ -1,7 +1,7 @@
 <a href="/home">
-    <div class="wrapper">
-        <img src="/umstud-landing.png" alt="UMSTUD" />
-    </div>
+	<div class="wrapper">
+		<img src="/umstud-landing.png" alt="UMSTUD" />
+	</div>
 </a>
 
 <style>
