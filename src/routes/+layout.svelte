@@ -7,3 +7,7 @@
 		font-family: 'Helvetica';
 	}
 </style>
+
+<svelte:head>
+	<title>UMSTÜD</title>
+</svelte:head>
