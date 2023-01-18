@@ -1,15 +1,3 @@
-<div>
-	<span>SA!VE ARTH!ST FOR FUT!URE</span>
+<div class="grid h-full">
+	<span class="self-center justify-self-center italic">SA!VE ARTH!ST FOR FUT!URE</span>
 </div>
-
-<style>
-	div {
-		display: grid;
-        height: 100%;
-	}
-	span {
-		font-style: italic;
-		justify-self: center;
-		align-self: center;
-	}
-</style>

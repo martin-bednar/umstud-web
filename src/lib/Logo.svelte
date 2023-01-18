@@ -1,8 +1,5 @@
-<img src="/umstud-logo.png" alt="UMSTUD logo" />
-
-<style>
-	img {
-		max-height: 100%;
-		max-width: 100%;
-	}
-</style>
+<img
+	src="/umstud-logo.png"
+	alt="UMSTUD logo"
+	class="max-h-full max-w-full"
+/>

@@ -22,7 +22,10 @@
 	</article>
 
 	<main id="main">
-		<img class="umstud-home" src="/umstud-home.png" />
+		<img
+			class="umstud-home"
+			src="/umstud-home.png"
+		/>
 	</main>
 </div>
 
