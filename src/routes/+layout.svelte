@@ -1,4 +1,6 @@
-<slot />
+<script>
+  import "../app.css";
+</script>
 
 <style>
 	:global(html, body) {
@@ -11,3 +13,5 @@
 <svelte:head>
 	<title>UMSTÜD</title>
 </svelte:head>
+
+<slot />
